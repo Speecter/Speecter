@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
-**Speecter/Speecter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi</h1><br>
+<div align=center>
+<img src="https://img.shields.io/badge/discord-specterr1-rgb(129, 112, 212)" alt="badge" />
+<img src="https://img.shields.io/badge/Steam workshop-https://steamcommunity.com/id/LUAHACK3R/-rgb(51, 51, 51)" alt="badge" />
+<img src="https://img.shields.io/badge/Country-Poland-red" alt="badge" />
+</div><br>
+<p align="center">I am CS student of University of Wroclaw. This profile holds my personal and university projects. </p><br>
+<div align=center>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" alt="html5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" alt="css3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40" alt="react" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40" alt="java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" alt="python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="cplusplus" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" width="40" alt="csharp" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" width="40" alt="linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" width="40" alt="figma" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="40" width="40" alt="lua" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode" />
+</div><br>
+<div align="center"><img src="https://github-profile-trophy.vercel.app?username=Speecter&theme=monokai&title=Commits%2CReviews%2CExperience%2CIssues%2CPullRequest%2CStars%2CRepositories%2CFollowers&rank=SECRET%2CSSS%2CSS%2CS%2CAAA%2CAA%2CA&column=5&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"/></div>
