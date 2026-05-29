@@ -19,4 +19,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="40" width="40" alt="lua" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode" />
 </div><br>
-<div align="center"><img src="https://readme-stats-github.pages.dev/api?username=Speecter&theme=shadow" alt="Speecter's GitHub Stats" width="500" /></div>
+<div align="center"><table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://readme-stats-github.pages.dev/api/repo?username=Speecter&repo=FSD&theme=shadow" alt="FSD Stats" />
+    </td>
+    <td align="center">
+      <img src="https://readme-stats-github.pages.dev/api/top-langs?username=Speecter&theme=shadow" alt="Top Languages" />
+    </td>
+    <td align="center">
+      <img src="https://readme-stats-github.pages.dev/api?username=Speecter&theme=shadow" alt="Speecter's GitHub Stats" />
+    </td>
+  </tr>
+</table></div>
