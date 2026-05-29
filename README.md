@@ -18,17 +18,24 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" width="40" alt="figma" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="40" width="40" alt="lua" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode" />
-</div><br>
-<div align="center"><table align="center">
+</div><br><table align="center">
+  <!-- Top Row: Welcome Sign spanning all 3 columns -->
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://readme-stats-github.pages.dev/api/typing?lines=Welcome%20to%20my%20profile&theme=shadow&color=%23863bf7&particleColor=%23000000&background=%238205ff" alt="Welcome to my profile" width="100%" />
+    </td>
+  </tr>
+  
+  <!-- Bottom Row: The 3 Stat Cards -->
   <tr>
     <td align="center">
-      <img src="https://readme-stats-github.pages.dev/api/repo?username=Speecter&repo=FSD&theme=shadow" alt="FSD Stats" />
+      <img src="https://readme-stats-github.pages.dev/api/repo?username=Speecter&repo=FSD&theme=shadow" alt="FSD Stats" width="320" />
     </td>
     <td align="center">
-      <img src="https://readme-stats-github.pages.dev/api/top-langs?username=Speecter&theme=shadow" alt="Top Languages" />
+      <img src="https://readme-stats-github.pages.dev/api/top-langs?username=Speecter&theme=shadow" alt="Top Languages" width="320" />
     </td>
     <td align="center">
-      <img src="https://readme-stats-github.pages.dev/api?username=Speecter&theme=shadow" alt="Speecter's GitHub Stats" />
+      <img src="https://readme-stats-github.pages.dev/api?username=Speecter&theme=shadow" alt="Speecter's GitHub Stats" width="320" />
     </td>
   </tr>
 </table></div>
