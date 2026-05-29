@@ -19,4 +19,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="40" width="40" alt="lua" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode" />
 </div><br>
-<div align="center"><img src="https://github-profile-trophy.vercel.app?username=Speecter&theme=monokai&title=Commits%2CReviews%2CExperience%2CIssues%2CPullRequest%2CStars%2CRepositories%2CFollowers&rank=SECRET%2CSSS%2CSS%2CS%2CAAA%2CAA%2CA&column=5&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"/></div>
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=Speecter&theme=shadow)
